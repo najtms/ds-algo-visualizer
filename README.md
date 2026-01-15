@@ -77,7 +77,7 @@ This project was created for **personal educational purposes** to:
 
 ```bash
 git clone https://github.com/najtms/ds-algo-visualizer.git
-cd Project-DS
+cd ds-algo-visualizer
 ```
 
 2. Install dependencies
