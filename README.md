@@ -226,7 +226,7 @@ This is a personal learning project. Feel free to use it for educational purpose
 
 Created as a personal project for learning and understanding data structures and algorithms.
 
-**GitHub:** [Your GitHub Profile](https://github.com/najtms)
+**GitHub:** [Najtms](https://github.com/najtms)
 
 ---
 
